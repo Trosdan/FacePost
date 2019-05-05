@@ -1,0 +1,3 @@
+rootProject.name = 'FacePost'
+
+include ':app'
