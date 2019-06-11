@@ -1,6 +1,6 @@
 # FacePost
 
-Aplicação em React Native que imita postagem no Facebook
+React Native application that mimics social network posting
 
 <p align="center">
 <img src="assets_readme/GitPost.gif" width="360" height="640" align="center" />
